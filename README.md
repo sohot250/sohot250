@@ -16,9 +16,6 @@ Full Stack Developer
 <p align="left"> <a href="https://www.github.com/sohot250" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/sohot250" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sohot250?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
-### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sohot250"><img src="https://github-readme-stats.vercel.app/api?username=sohot250&show_icons=true&hide=prs,issues,contribs&title_color=ffffff&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="sohot250's GitHub stats" /></a>
 
